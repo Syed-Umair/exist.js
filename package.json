@@ -34,7 +34,7 @@
     "benchmark": "^1.0.0",
     "eslint": "^2.9.0",
     "eslint-config-egg": "^2.0.0",
-    "lazy.js": "^0.4.0",
+    "lazy.js": "^0.5.1",
     "lodash": "*",
     "race.js": "^0.1.4",
     "string-table": "^0.1.5"
