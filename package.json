@@ -33,7 +33,7 @@
     "babel-preset-es2015": "^6.1.18",
     "benchmark": "^1.0.0",
     "eslint": "^2.9.0",
-    "eslint-config-egg": "^2.0.0",
+    "eslint-config-egg": "^8.0.1",
     "lazy.js": "^0.4.0",
     "lodash": "*",
     "race.js": "^0.1.4",
